@@ -55,7 +55,7 @@ img.onload = () => {
 
   tick();
 };
-img.src = "https://assets.codepen.io/439000/lake-reflection.jpg";
+img.src = "https://jihulab.com/free163/windows4-2345.pw/-/raw/5c2760544b2a200b88c27507c8cc9c844f611621/pc/index/lake/lake-reflection.jpg";
 
 // animation
 const tick = () => {
